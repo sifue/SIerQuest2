@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":false,"name":"110_第1章 龍の群れ","order":2,"parentId":0,"scrollX":483.5,"scrollY":336},
+{"id":2,"expanded":false,"name":"100_オープニング","order":1,"parentId":0,"scrollX":483.5,"scrollY":336},
+{"id":3,"expanded":false,"name":"120_H社 システム開発事業部","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":false,"name":"130_第1章 エンディング","order":4,"parentId":0,"scrollX":483.5,"scrollY":370.5},
+{"id":5,"expanded":false,"name":"210_第2章 粉々になったグラス","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"220_A社 サーバールーム","order":6,"parentId":0,"scrollX":483.5,"scrollY":370.5},
+{"id":7,"expanded":true,"name":"230_第2章 エンディング","order":7,"parentId":0,"scrollX":483.5,"scrollY":336},
+{"id":8,"expanded":false,"name":"310_第3章 石棺","order":8,"parentId":0,"scrollX":483.5,"scrollY":336},
+{"id":9,"expanded":true,"name":"320_N社 第45工場 開発室","order":9,"parentId":0,"scrollX":483.5,"scrollY":336},
+{"id":10,"expanded":false,"name":"330_第3章 中間地点","order":10,"parentId":0,"scrollX":483.5,"scrollY":336},
+{"id":11,"expanded":true,"name":"340_病院","order":11,"parentId":0,"scrollX":483.5,"scrollY":336},
+{"id":12,"expanded":true,"name":"350_第3章 エンディング","order":12,"parentId":0,"scrollX":483.5,"scrollY":336},
+{"id":13,"expanded":false,"name":"410_最終章 最後に残った希望","order":13,"parentId":0,"scrollX":483.5,"scrollY":336},
+{"id":14,"expanded":true,"name":"420_Nデータセンター オペレーションルーム","order":14,"parentId":0,"scrollX":483.5,"scrollY":336},
+{"id":15,"expanded":true,"name":"430_最終章 エンディング","order":15,"parentId":0,"scrollX":483.5,"scrollY":336},
+{"id":16,"expanded":true,"name":"440_病院","order":16,"parentId":0,"scrollX":483.5,"scrollY":336}
+]

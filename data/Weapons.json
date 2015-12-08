@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"型落ちノートPC","note":"","params":[0,0,5,0,0,0,20,0],"price":80000,"wtypeId":1},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"標準ノートPC","note":"","params":[0,0,10,0,0,0,20,0],"price":150000,"wtypeId":1},
+{"id":3,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"型落ちデスクトップPC","note":"","params":[0,0,15,0,0,0,0,0],"price":100000,"wtypeId":1},
+{"id":4,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"標準デスクトップPC","note":"","params":[0,0,20,0,0,0,0,0],"price":180000,"wtypeId":1},
+{"id":5,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"ハイエンドデスクトップPC","note":"","params":[0,0,30,0,0,0,0,0],"price":250000,"wtypeId":1},
+{"id":6,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"ハイエンドノートPC","note":"","params":[0,0,30,0,0,0,20,0],"price":350000,"wtypeId":1}
+]

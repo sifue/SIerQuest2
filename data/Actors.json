@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"清川亮太","nickname":"IT侍","note":"","profile":"正社員"},
+{"id":2,"battlerName":"","characterIndex":4,"characterName":"People2","classId":2,"equips":[1,0,0,0,0],"faceIndex":4,"faceName":"People2","traits":[],"initialLevel":20,"maxLevel":99,"name":"田中正太郎","nickname":"IT坑夫","note":"","profile":"正社員"},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"Actor3","classId":1,"equips":[2,0,0,0,0],"faceIndex":1,"faceName":"Actor3","traits":[{"code":34,"dataId":0,"value":2}],"initialLevel":8,"maxLevel":99,"name":"中村怜子","nickname":"働きマン","note":"","profile":"正社員"},
+{"id":4,"battlerName":"","characterIndex":6,"characterName":"Actor3","classId":1,"equips":[1,0,0,0,0],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"菊池博貴","nickname":"IT見習い戦士","note":"","profile":"契約社員"},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[1,0,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"仁科航平","nickname":"ラブライバー","note":"","profile":"正社員"},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"Actor3","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"Actor3","traits":[],"initialLevel":20,"maxLevel":99,"name":"黒田鉄平","nickname":"DBスペシャリスト","note":"","profile":"正社員"}
+]

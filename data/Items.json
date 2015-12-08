@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[{"code":11,"dataId":0,"value1":0,"value2":500}],"hitType":0,"iconIndex":176,"itypeId":1,"name":"ポーション","note":"","occasion":0,"price":50,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":100,"consumable":true,"damage":{"critical":false,"elementId":8,"formula":"50000","type":1,"variance":20},"description":"Zシステムのマージアルゴリズムによって生まれる\nデータ不整合を正常な状態に戻すスクリプト。","effects":[],"hitType":0,"iconIndex":193,"itypeId":1,"name":"修正スクリプト","note":"","occasion":0,"price":0,"repeats":1,"scope":1,"speed":-1000,"successRate":100,"tpGain":0}
+]
